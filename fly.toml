@@ -1,10 +1,10 @@
-# fly.toml app configuration file generated for gymclub on 2026-11-27T22:20:50Z
+# fly.toml app configuration file generated for gymclub-mr4nvw on 2026-11-28T11:55:40Z
 #
 # See https://docs.fly.io/reference/configuration for information about how to use this file.
 #
 
-app = 'gymclub'
-primary_region = 'iad'
+app = 'gymclub-mr4nvw'
+primary_region = 'fra'
 
 [build]
 [env]
